@@ -5,13 +5,21 @@ Please find the dataset attached. The objective is to use the data (Variable_1 t
 
 Type    Test Name
 ID  country_id
+
 ID  application_id
+
 ID  product_id
+
 Numeric Variable_1
+
 Numeric Variable_2
+
 Numeric Variable_3
+
 Numeric Variable_4
+
 Categorical Variable_5
+
 Categorical Variable_6
 Numeric Variable_7
 Date    due_date
